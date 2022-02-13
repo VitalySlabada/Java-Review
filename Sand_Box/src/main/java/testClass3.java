@@ -3,5 +3,6 @@ public class testClass3 {
         //master comments
         
         //comments from github edit
+        //comments from GH2
     }
 }
